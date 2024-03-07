@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Side_hustle/static/css/main.32641975.css",
+    "main.js": "/Side_hustle/static/js/main.e8186b04.js",
+    "index.html": "/Side_hustle/index.html",
+    "main.32641975.css.map": "/Side_hustle/static/css/main.32641975.css.map",
+    "main.e8186b04.js.map": "/Side_hustle/static/js/main.e8186b04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32641975.css",
+    "static/js/main.e8186b04.js"
+  ]
+}
